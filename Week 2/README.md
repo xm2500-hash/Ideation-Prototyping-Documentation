@@ -131,6 +131,103 @@ I used paper cutting to recreate the square frames of the installation.
 
 </details>
 
+<details>
+<summary>15 — Two Continuous Lines</summary>
 
+I used two continuous lines to draw the installation in a winding form without lifting the pen.
+
+![Two Continuous Lines](images/15.jpg)
+
+</details>
+
+<details>
+<summary>16 — Rope Reconstruction</summary>
+
+I used rope, foam, and postcards to recreate the shape of the installation. I also wrapped the rope into several small loops to represent the metal rings that connect its individual parts.
+
+![Rope Reconstruction](images/16.jpg)
+
+</details>
+
+<details>
+<summary>17 — Labeled Photograph</summary>
+
+I recreated the appearance of one of the images in the installation and added text underneath it.
+
+![Labeled Photograph](images/17.jpg)
+
+</details>
+
+<details>
+<summary>18 — Explosion</summary>
+
+I drew an explosion that I observed inside one of the photographs in the installation.
+
+![Explosion](images/18.jpg)
+
+</details>
+
+<details>
+<summary>19 — Taped Squares</summary>
+
+I used pieces of tape to create a group of squares that reflects the repeated rectangular forms in the installation.
+
+![Taped Squares](images/19.jpg)
+
+</details>
+
+<details>
+<summary>20 — Sewn Frame</summary>
+
+I experimented with sewing for the first time and used fabric and thread to create a photo frame.
+
+![Sewn Frame](images/20.jpg)
+
+</details>
+
+<details>
+<summary>21 — Human Scale</summary>
+
+I made a simple drawing of myself standing in front of the installation to show how large it is compared with my body.
+
+![Human Scale](images/21.jpg)
+
+</details>
+
+<details>
+<summary>22 — Folded Sculpture</summary>
+
+I folded paper into a sculpture to transform the flat qualities of the installation into a three-dimensional form.
+
+![Folded Sculpture](images/22.jpg)
+
+</details>
+
+<details>
+<summary>23 — Rope Outline</summary>
+
+I used rope to construct a simple outline of the installation.
+
+![Rope Outline](images/23.jpg)
+
+</details>
+
+<details>
+<summary>24 — Uncontrolled Paper Clips</summary>
+
+This was an unsuccessful experiment. I tried to construct shapes using paper clips, but the paper clips did not behave in the way I expected.
+
+![Uncontrolled Paper Clips](images/24.jpg)
+
+</details>
+
+<details>
+<summary>25 — Photograph in Pencil</summary>
+
+I used a pencil to draw one of the photographs found in the installation.
+
+![Photograph in Pencil](images/25.jpg)
+
+</details>
 
 
