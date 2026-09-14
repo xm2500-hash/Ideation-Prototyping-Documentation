@@ -84,6 +84,7 @@ I stacked different photographs together in unusual ways to explore another form
 I wrapped a stone in clay to represent the blurred quality of the photographs. I then used red light to create the mysterious feeling that I experienced from the installation.
 
 ![Mysterious Blur](images/9.jpg)
+</details>
 
 <details>
 <summary>10 — Blue Memory</summary>
