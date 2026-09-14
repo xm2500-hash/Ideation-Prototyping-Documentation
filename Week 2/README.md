@@ -452,5 +452,7 @@ I found several pieces of fabric with grid patterns, combined them, and photogra
 
 </details>
 
+At the beginning of this project, only the first ten experiments were completed smoothly. I mainly focused on the visual structure of the installation, such as its rectangular frames, irregular shape, repeated images, and metal rings. My initial experiments used digital tools that I was more familiar with, such as Figma, Photoshop, and Blender, as well as my favorite type of craft project, jewelry making. However, I quickly got stuck, so I gradually stopped focusing only on its appearance and began to think about its smell, sticky surface, light, texture, scale, and the ways its different parts were connected. Around halfway through the process, I began to run out of obvious ideas, so I tried using everyday materials such as rope, clay, bubble wrap, soap, tape, fabric, thread, mirrors, cat treats, and Perler beads. I tried sewing for the first time, as well as many crazy ideas. For example, I was surprised that bubble wrap transformed one light into many blurry spots. The most surprising one was when the view outside was projected onto my wall, which also reminded me of the blurry photographs in the installation.
+
 
 
