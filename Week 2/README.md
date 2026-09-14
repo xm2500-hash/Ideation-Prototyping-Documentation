@@ -229,5 +229,228 @@ I used a pencil to draw one of the photographs found in the installation.
 ![Photograph in Pencil](images/25.jpg)
 
 </details>
+<details>
+<summary>26 — Overall Shape</summary>
+
+I used a pencil to draw the approximate overall shape of the installation.
+
+![Overall Shape](images/26.jpg)
+
+</details>
+
+<details>
+<summary>27 — Frame Bracelet</summary>
+
+I created a bracelet using copper. Its square shape was inspired by the rectangular photo frames, while the circular rings represent the metal rings connecting the frames. The row of rings at the bottom also reflects the structure of the original installation.
+
+![Frame Bracelet](images/27.jpg)
+
+</details>
+
+<details>
+<summary>28 — Colored Frame</summary>
+
+I used colored pencils to draw the rectangular shape of a photo frame.
+
+![Colored Frame](images/28.jpg)
+
+</details>
+
+<details>
+<summary>29 — Soap Fragment</summary>
+
+I used small pieces of soap to recreate one of the photographic slides in the installation.
+
+![Soap Fragment](images/29.jpg)
+
+</details>
+
+<details>
+<summary>30 — Foam and Bead Frame</summary>
+
+I used foam paper and Perler beads to recreate the shape and structure of a photo frame.
+
+![Foam and Bead Frame](images/30.jpg)
+
+</details>
+
+<details>
+<summary>31 — Sticky Frame</summary>
+
+I used tape and hot glue to recreate a photo frame because the surface of the original installation felt sticky when I touched it.
+
+![Sticky Frame](images/31.jpg)
+
+</details>
+<details>
+<summary>32 — Watercolor Palette</summary>
+
+I used watercolor to recreate the main colors of the installation: green, blue, and the white spaces between the images.
+
+![Watercolor Palette](images/32.jpg)
+
+</details>
+
+<details>
+<summary>33 — Rectangular Perspective</summary>
+
+I photographed my watercolor paints from a specific angle because their rectangular shapes and this perspective reminded me of how I viewed the installation.
+
+![Rectangular Perspective](images/33.jpg)
+
+</details>
+
+<details>
+<summary>34 — Watercolor Slide</summary>
+
+I used watercolor to recreate one of the photographic slides in the installation.
+
+![Watercolor Slide](images/34.jpg)
+
+</details>
+
+<details>
+<summary>35 — Blurred Frame</summary>
+
+I covered the same photo frame with several layers of plastic wrap to create a blurred appearance.
+
+![Blurred Frame](images/35.jpg)
+
+</details>
+
+<details>
+<summary>36 — Failed Golden Age</summary>
+
+This was an unsuccessful experiment. I originally wanted to use glue and gold foil to represent the golden age shown in the installation, but the glue was difficult to shape and did not produce the result I expected.
+
+![Failed Golden Age](images/36.jpg)
+
+</details>
+
+<details>
+<summary>37 — Infinite Hot Glue Frame</summary>
+
+I used a hot glue gun to create an infinite frame, translating the endless structure from my earlier digital model into a physical material.
+
+![Infinite Hot Glue Frame](images/37.jpg)
+
+</details>
+
+<details>
+<summary>38 — Mirrored Cat Portrait</summary>
+
+I wanted to experiment with a mirror, so I used it to reflect my cat and treated the mirror as a photo frame.
+
+![Mirrored Cat Portrait](images/38.jpg)
+
+</details>
+
+<details>
+<summary>39 — Cat Treat Composition</summary>
+
+I used the different colors and positions of cat treats on a board to recreate the arrangement of the installation.
+
+![Cat Treat Composition](images/39.jpg)
+
+</details>
+<details>
+<summary>40 — Dusty Grid</summary>
+
+I created a grid with masking tape and placed dark particles inside some of the squares. The repeated squares represent the photo frames, while the uneven particles reflect the aged and dusty surface of the installation.
+
+![Dusty Grid](images/40.jpg)
+
+</details>
+
+<details>
+<summary>41 — Cigarette Frame</summary>
+
+I arranged cigarettes into the shape of a photo frame to reinterpret the rectangular structure of the installation.
+
+![Cigarette Frame](images/41.jpg)
+
+</details>
+
+<details>
+<summary>42 — Disliked Smell</summary>
+
+I placed ink on paper because I disliked the strong smell of ink in the installation. I also drew a cat to express my negative reaction to the smell.
+
+![Disliked Smell](images/42.jpg)
+
+</details>
+
+<details>
+<summary>43 — Unpleasant Odor</summary>
+
+I used a marker to represent the unpleasant smell of the installation. The brown curved lines show the odor spreading through the air.
+
+![Unpleasant Odor](images/43.jpg)
+
+</details>
+
+<details>
+<summary>44 — Sticky Surface</summary>
+
+I used my hand and glue to express the sticky feeling I experienced when touching the installation.
+
+![Sticky Surface](images/44.jpg)
+
+</details>
+
+<details>
+<summary>45 — Perler Bead Frames</summary>
+
+I used Perler beads in similar colors to recreate the repeated photo frames in the installation.
+
+![Perler Bead Frames](images/45.jpg)
+
+</details>
+
+<details>
+<summary>46 — Adhesive Touch</summary>
+
+I attached tape to my hand to represent the sticky feeling of touching the installation.
+
+![Adhesive Touch](images/46.jpg)
+
+</details>
+
+<details>
+<summary>47 — Before the Exhibition</summary>
+
+I imagined how the work was stored before it was exhibited, so I asked the person who created it. I learned that its parts were simply stacked together, so I arranged several objects to recreate this stacked state.
+
+![Before the Exhibition](images/47.jpg)
+
+</details>
+
+<details>
+<summary>48 — Unconnected Rings</summary>
+
+I recreated the appearance of the metal rings before they were used to connect the individual parts of the installation.
+
+![Unconnected Rings](images/48.jpg)
+
+</details>
+
+<details>
+<summary>49 — Connected Beads</summary>
+
+I connected the Perler bead frames with metal rings to recreate the connecting system of the original installation.
+
+![Connected Beads](images/49.jpg)
+
+</details>
+
+<details>
+<summary>50 — Fabric Grid</summary>
+
+I found several pieces of fabric with grid patterns, combined them, and photographed the resulting arrangement.
+
+![Fabric Grid](images/50.jpg)
+
+</details>
+
 
 
