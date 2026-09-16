@@ -4,7 +4,8 @@
 
 ![Subject of Observation](images/00-Subject%20of%20observation.jpg)
 
-This is the original object that I chose to observe and reinterpret in 50 different ways.
+This is the original object that I chose to observe and reinterpret in 50 different ways. The artwork I chose to observe is about toxic waste in the United States. It was part of a small art exhibition at Pratt Institute. The artwork is made up of many small frames, and they are connected together by small metal rings.
+
 
 <details>
 <summary>01 — Connected Structure</summary>
