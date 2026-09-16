@@ -134,7 +134,7 @@ I used paper cutting to recreate the square frames of the installation.
 <details>
 <summary>15 — Two Continuous Lines</summary>
 
-I used two continuous lines to draw the installation in a winding form without lifting the pen.
+I notice that if i stand there for a long time to look at it, the frame start to look wraped, I know is is an illusion but...
 
 ![Two Continuous Lines](images/15.jpg)
 
