@@ -11,3 +11,9 @@ The first material I used is a plastic spoon. It is came with doordash food. I d
 The second material is cardboard. It came from a box that held a bottle of alcohol I bought. I only needed the bottle, so the box became waste after I opened it. I would normally throw the cardboard away or recycle it. Compared with plastic, cardboard can break down more easily, although producing and disposing of it still uses energy and resources.
 
 The third material is a plastic bag that I used to hold food. After I cooked the food, I no longer needed the bag, so I usually threw it into the trash. Like the plastic spoon, this type of plastic does not break down easily. If it is not recycled or handled properly, it can stay in the environment for a long time and become pollution.
+
+## NY Conservation Connection
+I looked at the Jamaica Bay–Rockaway Parks Conservancy in New York. Jamaica Bay has many wetlands and coastal environments, and these places are very important for many migratory birds. JBRPC collects donations and encourages students to join as volunteers. They do habitat restoration, trash removal, invasive plant control, and other work. They also organize many music festivals and other interesting events to attract more people to join.
+
+Although the Spoon-billed Sandpiper does not live in New York, this conservation organization still has a strong connection to my bird because both are related to wetlands. If these wetlands disappear or become polluted, birds may lose important places to rest and find food.
+https://www.jbrpc.org/
