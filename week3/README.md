@@ -1,3 +1,6 @@
 # Week 3 - Endangered Animal Project
 
-## Animal Research
+## Animal Research - Spoon billed sandpiper
+The Spoon billed Sandpiper (Calidris pygmaea) is a very small migratory bird. It is now listed as Critically Endangered. It mainly lives in northeastern Russia and then migrates south. During migration, it depends a lot on coastal wetlands and mudflats, especially around the Yellow Sea near China and Korea. These places give the birds a place to rest and find food. In winter, they travel to places such as Myanmar, Bangladesh, Thailand, Vietnam, and southern China. The most special thing about this bird is its spoon-shaped bill. It helps the bird find food in shallow water and mud. The bird is very vulnerable because it needs many different places along its migration route to stay suitable for survival.
+
+They faces many problems today. These include the loss of wetlands, coastal development, hunting, pollution, invasive plants, and climate change. There are only about 300–500 birds left. Many people and organizations are now trying to protect them. For example, the Spoon-billed Sandpiper Task Force under EAAFP helps different countries work together on conservation. There is also a method called “headstarting.” Eggs are moved to a safer place and hatched there. The young birds are cared for during their most dangerous early stage and are later released back into the wild. If even one important wetland disappears, it can affect the bird’s whole migration and survival.
