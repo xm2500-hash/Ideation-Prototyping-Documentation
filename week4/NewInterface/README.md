@@ -3,8 +3,6 @@
 
 ![Stardew Valley Fishing Interface](Media/Fishing.jpg)
 
-![Stardew Valley Fishing Interface](Media/Fishing.jpg)
-
 ### We Need to Talk Letter
 You have many things that I really like. I like farming, fighting monsters, collecting things, and slowly building my own farm and life. Most of the time, this game makes me feel relaxed and gives me a sense of accomplishment. But fishing has always been the one part that troubles me the most.
 
@@ -56,4 +54,43 @@ I decided to combine Concept 1 and Concept 3。
 I kept the idea of physically pulling a rope. From Concept 3, I kept the idea of creating tension and resistance through the material.
 
 My final idea is to build a pulley-based physical controller. The player will manually pull a rope to control the green fishing bar on the screen. 
+## Prototype Process
+
+### Step 1: Materials
+
+For the first step, I prepared the main materials for the prototype. I used cardboard for the structure, twine for the fishing line, and a bottle cap as the pulley.
+![Prototype 1](Media/prototype1.jpg)
+### Step 2: Building the Supports
+
+I made two cardboard supports for the pulley. I also added two plastic bases to the bottom of the supports to help keep them balanced and stable.
+
+![Prototype 2](Media/prototype2.jpg)
+### Step 3: Making the Pulley
+
+I used three bottle caps, two large ones and one small one, to make a simple pulley. I attached the pulley to the top cardboard support so the rope could slide through it more smoothly.
+
+![Prototype 3](Media/prototype3.jpg)
+
+### Step 4: Assembling the Structure
+
+I attached the top pulley section to the two cardboard supports and fixed them together. Next I plan to add a piece at the bottom to secure the rope and keep it in place.
+
+![Prototype 4](Media/prototype4.jpg)
+
+### Step 5: Adding the Bottom Rope Guide
+
+I added a small cardboard guide at the bottom of the structure. The rope can pass through it and form a loop and keep the rope in place and allows it to move continuously through the pulley system.
+
+I was really excited to finally put the rope on and test how it moves.
+
+![Prototype 5](Media/prototype5.jpg)
+## Final Result
+
+I added the rope to the structure, and the rope can now be pulled through the pulley system. I also attached a green bar to the rope as the part that the player can manually control.
+
+By pulling the rope, i can move the green bar up and down, similar to controlling the fishing bar in the game.
+
+![Final Prototype](Media/Final.jpg)
+
+
 
