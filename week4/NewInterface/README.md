@@ -1,4 +1,7 @@
 # Interface: Stardew Valley Fishing
+
+![Stardew Valley Fishing Interface](Media/Fishing.jpg)
+
 ### We Need to Talk Letter
 You have many things that I really like. I like farming, fighting monsters, collecting things, and slowly building my own farm and life. Most of the time, this game makes me feel relaxed and gives me a sense of accomplishment. But fishing has always been the one part that troubles me the most.
 
@@ -42,3 +45,12 @@ The player pulls an elastic band or stretchable material, and different fish cre
 
 **Physical:** Pull against an elastic material with different levels of tension.  
 **Digital:** Pulling harder raises the catch bar, while stronger fish create more resistance.  
+
+## Chosen Direction
+
+I decided to combine Concept 1 and Concept 3。
+
+I kept the idea of physically pulling a rope. From Concept 3, I kept the idea of creating tension and resistance through the material.
+
+My final idea is to build a pulley-based physical controller. The player will manually pull a rope to control the green fishing bar on the screen. 
+
