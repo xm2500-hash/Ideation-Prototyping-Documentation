@@ -1,4 +1,7 @@
 # Interface: Stardew Valley Fishing
+*My Steam account is currently being used by someone else, so this image is sourced from the internet.*
+
+![Stardew Valley Fishing Interface](Media/Fishing.jpg)
 
 ![Stardew Valley Fishing Interface](Media/Fishing.jpg)
 
