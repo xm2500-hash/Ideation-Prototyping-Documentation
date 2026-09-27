@@ -7,3 +7,8 @@ I know you want to imitate the difficulty of fishing in real life, but for me, s
 The most contradictory part is that I actually still really want to fish. I want to catch different kinds of fish, complete the collection, and when I see a rare fish, I really want to catch it. But every time I actually start fishing, I become very nervous. You are supposed to be a game that helps me relax, but fishing is the one part that makes me suffer.
 
 I do not want fishing to become completely easy. I still want it to require skill, but I hope the challenge does not come from difficult mouse control and tiny movements.
+
+### Three Qualities
+Relaxation / Stress
+Skill / Control Difficulty
+Fishing Experience / Screen Precision
