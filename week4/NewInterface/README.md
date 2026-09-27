@@ -12,3 +12,33 @@ I do not want fishing to become completely easy. I still want it to require skil
 -Relaxation / Stress
 -Skill / Control Difficulty
 -Fishing Experience / Screen Precision
+
+## Three Concepts
+
+### Concept 1: Pulling Fishing Line
+
+![Concept 1](Media/concept1.jpg)
+
+Player pulls a rope upward to raise the green fishing bar and releases it to let the bar move down.
+
+**Physical:** Pull and release a rope.  
+**Digital:** The green bar moves up when the rope is pulled and moves down when it is released.  
+
+### Concept 2: Body Movement Control
+
+![Concept 2](Media/concept2.jpg)
+
+The player raises or lowers their arms, or a fishing-rod-like controller, to control the position of the green bar on the screen.
+
+**Physical:** Raise and lower the arms or rod.  
+**Digitale:** The green bar follows the height of the player's arms or the rod position.  
+
+
+### Concept 3: Elastic Resistance
+
+![Concept 3](Media/concept3.jpg)
+
+The player pulls an elastic band or stretchable material, and different fish create different levels of resistance.
+
+**Physical:** Pull against an elastic material with different levels of tension.  
+**Digital:** Pulling harder raises the catch bar, while stronger fish create more resistance.  
