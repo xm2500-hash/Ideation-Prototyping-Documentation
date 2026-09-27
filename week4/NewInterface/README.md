@@ -9,6 +9,6 @@ The most contradictory part is that I actually still really want to fish. I want
 I do not want fishing to become completely easy. I still want it to require skill, but I hope the challenge does not come from difficult mouse control and tiny movements.
 
 ### Three Qualities
-Relaxation / Stress
-Skill / Control Difficulty
-Fishing Experience / Screen Precision
+-Relaxation / Stress
+-Skill / Control Difficulty
+-Fishing Experience / Screen Precision
