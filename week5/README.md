@@ -72,3 +72,23 @@ I like everything in the ChatGPT image, including the small houses, flowers, and
 I think all three results are good and look quite similar. I do not have a strong preference between them in this round. I will continue using the ChatGPT version as the base for my next transformation.
 
 I want to add a towering tree and a small pond to the ChatGPT image while keeping its bright sunlight, colorful flowers, houses, children, and peaceful countryside atmosphere.
+
+## 14. Third Round Sketch
+
+I added a large tree on the left and a small pond in the lower-right foreground to the ChatGPT image. I asked the AI tools to blend these additions into the same oil-painting style.
+
+![Third-round collage sketch](<Media/Final Sketch.png>)
+
+## 15. Third-Round AI Outputs
+
+### ChatGPT — Round 3
+
+![ChatGPT — Round 3](Media/ChatGPT3.png)
+
+### Gemini / Nano Banana — Round 3
+
+![Gemini — Round 3](Media/Gemini3.jfif)
+
+### Tool Availability
+
+Ideogram required a paid upgrade for further generation, so I continued this round with ChatGPT and Gemini only.
