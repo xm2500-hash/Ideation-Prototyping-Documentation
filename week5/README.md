@@ -19,6 +19,6 @@ This painting depicts the garden of the house Monet rented in Vétheuil, France.
 
 This oil painting has rich layers of paint. The path in the center of the garden guides the viewer’s eye toward the steps and the house. The tall sunflowers contrast in scale with the small figures. The bright colors make the sunlit garden feel rich and lively.
 
-## 4. Why I Like It
+## 4. I love it because
 
 I made a copy of this painting when I was learning oil painting. I like its bright sunlight, the flowers, and its countryside atmosphere. Looking at it makes me feel relaxed and refreshed.
