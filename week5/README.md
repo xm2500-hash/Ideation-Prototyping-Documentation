@@ -92,3 +92,10 @@ I added a large tree on the left and a small pond in the lower-right foreground 
 ### Tool Availability
 
 Ideogram required a paid upgrade for further generation, so I continued this round with ChatGPT and Gemini only.
+## 16. Final Selection and Reflection
+
+I chose the third ChatGPT version as my final representative work because I prefer its brushstrokes. I decided to stop here because the scene already feels rich enough and has the quiet, peaceful atmosphere I wanted.
+
+The final image is AI-generated, guided by my own sketches, collages, creative decisions. I selected the elements I liked, combined material from different outputs, and decided where to add the tree and pond. The AI blended these elements into a unified oil-painting style.
+
+![Final representative work — ChatGPT Round 3](Media/ChatGPT3.png)
