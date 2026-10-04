@@ -29,6 +29,11 @@ The qualities that interest me most are the bright sunlight, rich colors, flower
 
 ## 6. Text Prompt
 
-A vertical oil painting of a sunlit countryside garden. The garden is filled with different kinds of flowers, including yellow sunflowers, small pink and purple flowers, and lush green plants. The rich colors make the garden feel full of life. A central path leads toward steps and a countryside house in the background. A few children stand or sit quietly in the garden, surrounded by flowers. Bright, warm sunlight falls on the flowers, children, and path, creating soft shadows. Use visible, loose oil-painting brushstrokes to create a quiet, peaceful, and comfortable countryside atmosphere. Follow the attached sketch for the composition. Do not include sketch guidelines or text labels in the final image.
+A horizontal oil painting of a peaceful countryside village in bright, warm sunlight. Follow the attached sketch: rolling hills stretch across the background, several houses with triangular roofs sit in the foreground and middle ground, and small groups of children appear near the houses and on the distant hillside. Different kinds of flowers grow among the houses and across the hills, including pink, purple, yellow, and red flowers surrounded by lush greenery. Keep the figures small compared with the landscape. Use rich colors, soft shadows, and visible, loose oil-painting brushstrokes. Create a quiet, comfortable countryside atmosphere. Do not include black sketch outlines, stick figures, or text labels in the final painting.
 
+## 7. Composition Sketch
+
+my sketch:)
+
+![My countryside composition sketch](Media/sketchFlower.jpg)
 
