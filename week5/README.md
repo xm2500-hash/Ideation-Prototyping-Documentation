@@ -52,3 +52,17 @@ my sketch:)
 I like everything in the ChatGPT image, including the small houses, flowers, and rolling hills. It captures the bright, peaceful countryside atmosphere I wanted. In the Gemini image, I like the flock of sheep in the distance and would like to bring that detail into the ChatGPT image. There is nothing in the Ideogram image that I particularly like or want to use.
 
 ![My second collage sketch](Media/Sketch2.png)
+
+## 11. Second-Round AI Outputs
+
+### ChatGPT — Round 2
+
+![ChatGPT — Round 2](<Media/ChatGPT 图像 2026年10月4日 15_56_08.png>)
+
+### Gemini / Nano Banana — Round 2
+
+![Gemini — Round 2](Media/Gemini_Generated_Image_q7xd7kq7xd7kq7xd.jfif)
+
+### Ideogram — Round 2
+
+![Ideogram — Round 2](<Media/Ideogram2 .png>)
