@@ -46,3 +46,9 @@ my sketch:)
 
 ### Ideogram
 ![Ideogram — Round 1](Media/Ideogram1.png)
+
+## 9. First-Round Reflection
+
+I like everything in the ChatGPT image, including the small houses, flowers, and rolling hills. It captures the bright, peaceful countryside atmosphere I wanted. In the Gemini image, I like the flock of sheep in the distance and would like to bring that detail into the ChatGPT image. There is nothing in the Ideogram image that I particularly like or want to use.
+
+
