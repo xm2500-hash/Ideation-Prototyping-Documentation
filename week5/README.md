@@ -36,4 +36,13 @@ A horizontal oil painting of a peaceful countryside village in bright, warm sunl
 my sketch:)
 
 ![My countryside composition sketch](Media/sketchFlower.jpg)
+## 8. First-Round AI Outputs
 
+### ChatGPT
+![ChatGPT — Round 1](Media/ChatGPT1)
+
+### Gemini / Nano Banana
+![Gemini — Round 1](Media/Gemini1)
+
+### Ideogram
+![Ideogram — Round 1](Media/Ideogram1.png)
