@@ -17,8 +17,9 @@ This deck mainly gave me reassurance and emotional comfort. During a time filled
 ## Peking Opera Hairpin
 ![Peking Opera Hairpin](week6/Media/fazhan.jpg)
 
-This hairpin was a birthday gift I received when I was very young. I brought it with me on my first trip to the United States in elementary school, but I left it at my uncle’ house. When I later came to the United States to study, I got it back. I feel that there is something special about how this childhood object found its way back to me.
+This Peking opera-inspired hairpin was a birthday gift from my dad. Every year on my birthday, he gives me something with Chinese cultural elements. I really loved this hairpin, so I wanted to take it everywhere, including on my first trip to the United States when I was in elementary school. I put it in the bedside table drawer in my room at my uncle’s house. It was the only thing in the drawer, and I forgot to take it when we left. I actually remembered just after we walked out the door, but my mom wouldn’t let me go back for it, possibly because we were in a hurry.
 
+Later, after I came to the United States to study, my uncle returned the hairpin to me when we met for a meal. Seeing it again felt like seeing an old friend after a long time apart. From taking it on a trip as a child to leaving it behind and eventually getting it back, I feel that fate played a part in bringing it back to me. Now I keep it as a memory, preserving that feeling of being reunited with something familiar.
 ## Wooden Bracelet
 
 ![Wooden Bracelet](week6/Media/shouchuan.jpg)
