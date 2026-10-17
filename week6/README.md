@@ -30,3 +30,6 @@ I don’t usually wear it because I’m afraid it might break, so I keep it in a
 ## Hand-drawn Memory Cards
 
 ![Hand-drawn Memory Cards](week6/Media/notes.jpg)
+I chose these four objects because they hold memories from different stages of my life, from high school to college. Even if I could buy new ones, I would still want to keep the originals because what I need is the memories they hold. I realized that I am a nostalgic person. Some of these objects I use every day, while others are kept in a drawer, but they all still mean something to me.
+
+I documented these objects through photographs, writing, and hand-drawn cards, adding related keywords beside the drawings. While recalling their stories, I remembered the warehouse from the day I helped my friend move especially clearly because that day was so exhausting. Every time I smell the bracelet’s wood scent, I feel like I can also smell the warehouse. This made me realize how important scent is to me, bringing back memories of a day I spent with someone.
