@@ -10,7 +10,9 @@ I connected them to my computer, so I wear them almost whenever I use it, whethe
 ## Cat Tarot Cards
 ![Cat Tarot Cards](week6/Media/taluo.jpg)
 
-I bought these tarot cards in high school. I chose this version because I really like cats. During COVID, my mental health was not very good, and I used these cards countless times to ask what collage I would get into and whether things would go smoothly. These cards helped me a lot during that time.
+I first became interested in tarot cards in high school because I believed in them and found them mysterious. I often asked other people to do readings for me, and later I wanted to learn how to read the cards for others too. I chose this cat-themed deck because I really like cats. It was during COVID, and my mental health was not very good. I also had a lot of worries about the future. I used the cards to ask about everything, from what college I would get into and whether things would go smoothly to whether I should go out the next day or what I should be careful about during a trip. I remember once doing a reading for my mom about whether her trip would go smoothly. The result was very negative, so she decided not to go. It ended up raining heavily that day. That experience really stayed with me.
+
+This deck mainly gave me reassurance and emotional comfort. During a time filled with uncertainty, doing tarot readings comforted me and helped me get through those days. I rarely use this deck now, but I still keep it. To me, it belongs to my high school years, holding the worries and hopes I had about the future at that time.
 
 ## Peking Opera Hairpin
 ![Peking Opera Hairpin](week6/Media/fazhan.jpg)
