@@ -27,3 +27,6 @@ Later, after I came to the United States to study, my uncle returned the hairpin
 This wooden bracelet was handmade by a friend who studies woodworking. She used a special type of wood with a distinctive scent. One time, I helped her move, and we carried things from morning until night. We were both extremely tired. She gave me this bracelet in a warehouse that day. Every time I smell the wood, I feel like I can also smell that warehouse and remember the day we spent moving together.
 
 I don’t usually wear it because I’m afraid it might break, so I keep it in a drawer. Sometimes, when I’m looking through the drawer, I take it out and smell it. My friend and I still play games together almost every day. This bracelet holds memories of our friendship and that exhausting day. Its scent brings me back to that place and the time we spent together.
+## Hand-drawn Memory Cards
+
+![Hand-drawn Memory Cards](week6/Media/notes.jpg)
