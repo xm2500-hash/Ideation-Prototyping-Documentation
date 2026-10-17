@@ -3,7 +3,9 @@
 ## Headphones
 ![Headphones](week6/Media/erji.jpg)
 
-My friend gave me these headphones during my junior year of college. I use them every day when I do homework or play video games. They have become part of my daily routine.
+These headphones were a gift from my friend for my 22nd birthday. We met during our freshman year, and she is my best friend from college. Because I love listening to music, she gives me a pair of headphones or earphones every year. She once gave me a pair of cat-shaped Bluetooth earphones. When I used to see her wearing over-ear headphones, I always wondered why she chose them. Wouldn’t something like AirPods be more convenient? It wasn’t until she gave me a pair that I realized how comforting over-ear headphones could feel. I could also decorate them myself, and the battery lasts a long time.
+
+I connected them to my computer, so I wear them almost whenever I use it, whether I’m doing homework, playing games, or making calls. I feel very focused when I wear them because it feels like someone is holding my head in their arms. Every time I use them, I think of my friend. They have become part of my daily life. If they break one day, I will buy an identical pair and pretend they never broke.
 
 ## Cat Tarot Cards
 ![Cat Tarot Cards](week6/Media/taluo.jpg)
