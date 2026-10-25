@@ -36,3 +36,17 @@ Inside the pocket, I placed the birthday card she gave me along with the headpho
 ![Birthday card](Media/wooden%20card.jpg)
 
 I used wired earphones to represent my  headphones because they are easier to roll up inside the fabric. There is also another reason: when we first met, we often shared wired earphones in class, each using one earbud to listen to music together. Those moments were how we became close friends.
+
+
+## Cat Tarot Cards
+
+I chose dark blue fabric because my life felt a little dark during the time when I used these tarot cards.
+
+![Tarot cards overview](Media/Tarot%20overview.jpg)
+
+I selected three cards to represent my emotional journey during COVID, from feeling lost to gradually finding a clearer path forward. The Nine of Swords represents my anxiety and worries about the future. The Hermit represents my search for answers and guidance. The Star represents the comfort and hope I found, even when the future was still uncertain.
+
+![Three tarot cards](Media/tarot%20card.jpg)
+
+I tangled the twine together to represent the confused thoughts in my mind during that time. This twine also has a personal meaning: my grandfather gave it to me. He passed away because of COVID, and I wanted to include the twine as a way to remember him.
+I also placed some beer bottle caps on the fabric because I often drank beer during that time. Strangely, after the pandemic ended and I got into college, I stopped drinking beer. To me, beer became a symbol of that period of my life.
