@@ -50,3 +50,21 @@ I selected three cards to represent my emotional journey during COVID, from feel
 
 I tangled the twine together to represent the confused thoughts in my mind during that time. This twine also has a personal meaning: my grandfather gave it to me. He passed away because of COVID, and I wanted to include the twine as a way to remember him.
 I also placed some beer bottle caps on the fabric because I often drank beer during that time. Strangely, after the pandemic ended and I got into college, I stopped drinking beer. To me, beer became a symbol of that period of my life.
+
+## Peking Opera Hairpin
+
+I used colored paper to tell the story of this hairpin. It was a gift from my dad for my ninth birthday. I later left it behind in the United States, but eventually got it back. Seeing it again felt like meeting an old friend after a long time apart.
+
+![Hairpin overview](Media/hairbin%20overview.jpg)
+
+I also included a few pieces from a 3D puzzle with Chinese cultural elements that my dad gave me for my twenty-first birthday. I think my dad's love for me did not change because I lost the hairpin. He continued to give me birthday gifts every year.
+
+![Hairpin story details](Media/hairbin%20element%201.jpg)
+
+![Birthday gift details](Media/hair%20element%202.jpg)
+
+## My Teammate
+
+My teammate was my lovely cat. If I look back on making this project someday, I think I will remember her too. she kept making trouble, pawing off the things I had glued down and lying on the fabric I had already finished.
+
+![My teammate](Media/my%20teamate.jpg)
