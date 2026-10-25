@@ -21,3 +21,18 @@ On the right, I placed a foldable paper box inside the pocket to represent the d
 ![Foldable moving box](Media/wooden%20box.jpg)
 
 I also added a small “Smell Me” tag to invite people to smell the bracelet and remember its scent. For me, the scent brings back the smell of the warehouse and the memory of that day.
+
+
+## Headphones
+
+I chose pink fabric because the friend who gave me the headphones studies jewelry, and her work clothes are pink. She is always working on assignments, so when I think of her, I picture her wearing pink.
+
+![Headphones overview](Media/wooden%20headphone.jpg)
+
+I placed two hands in the background because wearing the headphones makes me feel safe, as if someone is holding my head. My friend also makes me feel safe because she is someone I can always rely on. When I am with her, I feel like I do not even need to think. The hands represent that feeling of safety and trust.
+
+Inside the pocket, I placed the birthday card she gave me along with the headphones. She asked many of our close friends to write messages in it. I was really touched to receive everyone's wishes, so I felt that the card and the headphones should stay together.
+
+![Birthday card](Media/wooden%20card.jpg)
+
+I used wired earphones to represent my  headphones because they are easier to roll up inside the fabric. There is also another reason: when we first met, we often shared wired earphones in class, each using one earbud to listen to music together. Those moments were how we became close friends.
